@@ -97,7 +97,7 @@ Structured digital ambition.
 
 My digital identity, skills & journey.
 
-[  Visit Site](YOUR_PORTFOLIO_LINK) • [  Repo](YOUR_PORTFOLIO_REPO_LINK)
+[  Visit Site](YOUR_PORTFOLIO_LINK) • [  Repo](https://github.com/Xyronyx/Portfolio)
 
 </td>
 </tr>
