@@ -72,7 +72,7 @@ Focused on **C++**, web development, and growth through consistency.
 
 ---
 
-## n Featured Projects Grid
+##   Featured Projects Grid
 
 <table>
 <tr>
