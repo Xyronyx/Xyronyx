@@ -119,7 +119,7 @@ Stay tuned
 
 ###   Current Mission
 
-<img src="YOUR_MISSION_IMAGE_LINK" width="100%" />
+<img src="https://raw.githubusercontent.com/Xyronyx/Xyronyx/main/mission%20banner.png" width="100%" />
 
 C++ • Web Dev • Growth • Career Launch
 
