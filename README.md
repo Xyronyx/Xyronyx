@@ -26,8 +26,8 @@
 ### 🔗 Connect
 
 [GitHub](https://github.com/Xyronyx)  
-[Portfolio](YOUR_PORTFOLIO_LINK)  
-[LinkedIn](YOUR_LINKEDIN_LINK)
+[Portfolio](xyronyx.github.io)  
+[LinkedIn](linkedin.com/in/tufail-ahmad-491553333)
 
 <br>
 
