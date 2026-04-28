@@ -172,7 +172,5 @@ Stay tuned
 ---
 
 <p align="center">
-  Thanks for visiting! Let’s connect, collaborate and create something awesome together. 🚀
-</p>
-```
-
+  Thanks for visiting! Let’s connect, collaborate and create something awesome together. 
+</p> 
