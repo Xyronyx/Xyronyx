@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">  Prince | Xyronyx ⚡</h1>
 <h3 align="center">Building the future with precision, power & scale.</h3>
 
