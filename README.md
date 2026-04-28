@@ -27,7 +27,7 @@
 
 [GitHub](https://github.com/Xyronyx)  
 [Portfolio](https://xyronyx.github.io/Portfolio/)  
-[LinkedIn](in/tufail-ahmad-491553333)
+[LinkedIn](https://www.linkedin.com/in/tufail-ahmad-491553333/)
 
 <br>
 
