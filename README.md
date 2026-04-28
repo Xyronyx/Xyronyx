@@ -72,39 +72,56 @@ Focused on **C++**, web development, and growth through consistency.
 
 ---
 
-##   Featured Projects Grid
+## n Featured Projects Grid
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ###   ANT-Labs
 
-Precision. Power. Scale.  
+<img src="YOUR_ANTLABS_BANNER_IMAGE_LINK" width="100%" />
 
-[  Live Demo](https://xyronyx.github.io/ANT-Labs/)  
-[  Repo](https://github.com/Xyronyx/ANT-Labs)
+Precision. Power. Scale.  
+Structured digital ambition.
+
+[  Live Demo](YOUR_ANTLABS_LIVE_LINK) • [  Repo](YOUR_ANTLABS_REPO_LINK)
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ###   Portfolio
 
-My digital identity and journey.  
+<img src="YOUR_PORTFOLIO_BANNER_IMAGE_LINK" width="100%" />
 
-[  Visit Site](https://xyronyx.github.io/Portfolio/)  
-[  Repo](https://github.com/Xyronyx/Portfolio)
+My digital identity, skills & journey.
+
+[  Visit Site](YOUR_PORTFOLIO_LINK) • [  Repo](YOUR_PORTFOLIO_REPO_LINK)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+###   Upcoming Build
+
+<img src="YOUR_COMING_SOON_IMAGE_LINK" width="100%" />
+
+Currently forging the next project.
+
+Stay tuned  
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 👀 Coming Soon
+###   Current Mission
 
-Building something powerful.  
+<img src="YOUR_MISSION_IMAGE_LINK" width="100%" />
 
-Stay tuned  
+C++ • Web Dev • Growth • Career Launch
 
 </td>
 </tr>
