@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Xyronyx ⚡</h1>
+<h1 align="center">  Xyronyx  </h1>
 <h3 align="center">Building the future with precision, power & scale.</h3>
 
 <p align="center">
@@ -11,15 +11,15 @@
 <tr>
 <td width="28%" valign="top">
 
-## 👤 Profile Panel
+##   Profile Panel
 
 ### Tufail Ahmad  
 **Xyronyx**  
 
-🎓 B.Tech CS Student  
-📍 Bhopal, India  
-🚀 Real Project Builder  
-⚡ Always Learning  
+  B.Tech CS Student  
+  Bhopal, India  
+  Real Project Builder  
+  Always Learning  
 
 <br>
 
@@ -31,7 +31,7 @@
 
 <br>
 
-### 💡 Motto
+###   Motto
 
 > Quiet work.  
 > Loud results.
@@ -40,9 +40,9 @@
 
 <td width="72%" valign="top">
 
-## 🌌 Command Dashboard
+##   Command Dashboard
 
-### 🏷️ Identity Badges
+###   Identity Badges
 
 <p>
 <img src="https://img.shields.io/badge/B.Tech-CS-blue?style=for-the-badge" />
@@ -53,14 +53,14 @@
 
 ---
 
-### 🧠 About Me
+###   About Me
 
 Hey! I’m passionate about turning ideas into real digital products.  
 Focused on **C++**, web development, and growth through consistency.
 
 ---
 
-### 🛠 Tech Stack
+###   Tech Stack
 
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,html,css,js,git,github,vscode" />
@@ -72,29 +72,29 @@ Focused on **C++**, web development, and growth through consistency.
 
 ---
 
-## 🚀 Featured Projects Grid
+##   Featured Projects Grid
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🐜 ANT-Labs
+###   ANT-Labs
 
 Precision. Power. Scale.  
 
-[🌐 Live Demo](YOUR_ANTLABS_LIVE_LINK)  
-[📁 Repo](YOUR_ANTLABS_REPO_LINK)
+[  Live Demo](YOUR_ANTLABS_LIVE_LINK)  
+[  Repo](YOUR_ANTLABS_REPO_LINK)
 
 </td>
 
 <td width="33%" valign="top">
 
-### 🌐 Portfolio
+###   Portfolio
 
 My digital identity and journey.  
 
-[🚀 Visit Site](YOUR_PORTFOLIO_LINK)  
-[📁 Repo](YOUR_PORTFOLIO_REPO_LINK)
+[  Visit Site](YOUR_PORTFOLIO_LINK)  
+[  Repo](YOUR_PORTFOLIO_REPO_LINK)
 
 </td>
 
@@ -104,7 +104,7 @@ My digital identity and journey.
 
 Building something powerful.  
 
-Stay tuned ⚡
+Stay tuned  
 
 </td>
 </tr>
@@ -112,7 +112,7 @@ Stay tuned ⚡
 
 ---
 
-## 📊 Stats Zone
+##   Stats Zone
 
 <table>
 <tr>
@@ -135,7 +135,7 @@ Stay tuned ⚡
 
 ---
 
-## 📈 Contribution Zone
+##   Contribution Zone
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xyronyx&theme=tokyo-night&hide_border=true&area=true" />
@@ -143,13 +143,13 @@ Stay tuned ⚡
 
 ---
 
-## 🔥 Current Focus + Mindset
+##   Current Focus + Mindset
 
 <table>
 <tr>
 <td width="60%" valign="top">
 
-### 🎯 Current Focus
+###   Current Focus
 
 - Mastering C++ & DSA  
 - Building full-stack projects  
@@ -160,7 +160,7 @@ Stay tuned ⚡
 
 <td width="40%" valign="top">
 
-### 👑 Mindset
+###   Mindset
 
 > Build like ants.  
 > Think like giants.
@@ -172,7 +172,7 @@ Stay tuned ⚡
 ---
 
 <p align="center">
-💜 Thanks for visiting! Let’s connect, collaborate and create something awesome together. 🚀
+  Thanks for visiting! Let’s connect, collaborate and create something awesome together. 🚀
 </p>
 ```
 
