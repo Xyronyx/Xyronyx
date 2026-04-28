@@ -107,7 +107,7 @@ My digital identity, skills & journey.
 
 ###   Upcoming Build
 
-<img src="YOUR_COMING_SOON_IMAGE_LINK" width="100%" />
+<img src="https://raw.githubusercontent.com/Xyronyx/Xyronyx/main/Hehehe%20banner.png" width="100%" />
 
 Currently forging the next project.
 
