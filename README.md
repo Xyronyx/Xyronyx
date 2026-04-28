@@ -93,7 +93,7 @@ Structured digital ambition.
 
 ###   Portfolio
 
-<img src="YOUR_PORTFOLIO_BANNER_IMAGE_LINK" width="100%" />
+<img src="https://raw.githubusercontent.com/Xyronyx/Xyronyx/main/portfolio%20banner.png" width="100%" />
 
 My digital identity, skills & journey.
 
