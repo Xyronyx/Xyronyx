@@ -85,7 +85,7 @@ Focused on **C++**, web development, and growth through consistency.
 Precision. Power. Scale.  
 Structured digital ambition.
 
-[  Live Demo](https://xyronyx.github.io/ANT-Labs/) • [  Repo](YOUR_ANTLABS_REPO_LINK)
+[  Live Demo](https://xyronyx.github.io/ANT-Labs/) • [  Repo](https://github.com/Xyronyx/ANT-Labs)
 
 </td>
 
