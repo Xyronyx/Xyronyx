@@ -80,7 +80,7 @@ Focused on **C++**, web development, and growth through consistency.
 
 ###   ANT-Labs
 
-<img src="YOUR_ANTLABS_BANNER_IMAGE_LINK" width="100%" />
+<img src="https://raw.githubusercontent.com/Xyronyx/Xyronyx/main/Ant%20banner.png" width="100%" />
 
 Precision. Power. Scale.  
 Structured digital ambition.
