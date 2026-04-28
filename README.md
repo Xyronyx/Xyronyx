@@ -94,7 +94,7 @@ Precision. Power. Scale.
 My digital identity and journey.  
 
 [  Visit Site](https://xyronyx.github.io/Portfolio/)  
-[  Repo](YOUR_PORTFOLIO_REPO_LINK)
+[  Repo](https://github.com/Xyronyx/Portfolio)
 
 </td>
 
